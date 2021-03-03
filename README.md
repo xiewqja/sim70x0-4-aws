@@ -1,2 +1,3 @@
 # sim70x0-4-aws
-a library for porting SIM70x0 to AWS FreeRTOS cellular library
+porting SIM7080,SIM7090 to AWS FreeRTOS cellular library
+labDemo Project for SIM7080,SIM7090
